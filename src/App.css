@@ -1,0 +1,8 @@
+.App {
+  text-align: center;display:flex;
+}
+ul{display:flex;}
+ul li{list-style-type:none;}
+input, button {padding:10px;margin:10px;border:1px solid #e2e2e2;}
+.result{padding:10px;margin:10px;}
+.result::before{content:"=";padding-right:10px;}
